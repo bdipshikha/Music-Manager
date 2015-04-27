@@ -1,0 +1,1 @@
+INSERT INTO songs (title, artist, album) VALUES ("Firework", "Taylor Swift", "Teenage Dream");
